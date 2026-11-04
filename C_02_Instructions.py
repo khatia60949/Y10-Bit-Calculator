@@ -10,7 +10,7 @@ def instructions():
     print('''
 Instructions go here.
 - Enter the type of file you want to calculate (text, image, integer)
-- Enter the integer/width & height/text you want to calculate
+- Enter the integer/text/image width & height you want to calculate
 - Type 'xxx' to end the program
      ''')
 
